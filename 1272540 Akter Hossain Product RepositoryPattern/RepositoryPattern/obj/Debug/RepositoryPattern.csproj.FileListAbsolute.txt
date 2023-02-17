@@ -1,0 +1,16 @@
+G:\AkterFirstprojrct\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config
+G:\AkterFirstprojrct\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe
+G:\AkterFirstprojrct\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.pdb
+G:\AkterFirstprojrct\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.AssemblyReference.cache
+G:\AkterFirstprojrct\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.SuggestedBindingRedirects.cache
+G:\AkterFirstprojrct\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+G:\AkterFirstprojrct\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.exe
+G:\AkterFirstprojrct\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
+G:\AkterFirstprojrct\1272540 Akter Hossain Product RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config
+G:\AkterFirstprojrct\1272540 Akter Hossain Product RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe
+G:\AkterFirstprojrct\1272540 Akter Hossain Product RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.pdb
+G:\AkterFirstprojrct\1272540 Akter Hossain Product RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.AssemblyReference.cache
+G:\AkterFirstprojrct\1272540 Akter Hossain Product RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.SuggestedBindingRedirects.cache
+G:\AkterFirstprojrct\1272540 Akter Hossain Product RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+G:\AkterFirstprojrct\1272540 Akter Hossain Product RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.exe
+G:\AkterFirstprojrct\1272540 Akter Hossain Product RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
